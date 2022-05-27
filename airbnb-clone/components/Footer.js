@@ -1,4 +1,3 @@
-
 function Footer() {
   return (
     <div>
@@ -21,7 +20,7 @@ function Footer() {
     </div>
 
     <div className="bg-gray-800 border-2 py-2">
-      <p className="flex items-center space-y-4 text-xs text-gray-400">Created by Mattper</p>
+      <p className="text-center space-y-4 text-xs text-gray-400">Created by Mattper</p>
     </div>
       
     </div>
